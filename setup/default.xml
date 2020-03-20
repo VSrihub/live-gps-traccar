@@ -11,7 +11,7 @@
     -->
 
     <entry key='web.enable'>true</entry>
-    <entry key='web.port'>8080</entry>
+   <!-- <entry key='web.port'>8080</entry>-->
     <entry key='web.path'>./web</entry>
     <entry key='web.cacheControl'>max-age=3600,public</entry>
     <entry key='web.healthCheck'>true</entry>
